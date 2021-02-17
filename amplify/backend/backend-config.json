@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "amplifyapp65d0f489": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
